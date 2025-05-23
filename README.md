@@ -1,8 +1,18 @@
-# React + Vite
+# React Beautiful UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and elegant user interface built with React.  
+This project focuses on frontend design using modern layout and styling techniques, without any 3D elements.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built with React
+- Responsive and minimal UI
+- Simple component structure
+- Clean and modern design
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/rasool505/React-Beautiful-UI.git
